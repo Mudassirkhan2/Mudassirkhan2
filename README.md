@@ -1,4 +1,4 @@
-# 💫 About Me:
+[![MasterHead](https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif)](https://rishavchanda.io)
 <h1 align="center" >Hi 👋, I'm Mohammed Mudassir Ullah Khan</h1>
 <h1 align="center"> FrontEnd Developer</h1>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
@@ -21,10 +21,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mudassirkhan2&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=Mudassirkhan2&icon=8&color=10)](https://visitcount.itsvg.in)
+
+
 
 
