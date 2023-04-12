@@ -3,7 +3,7 @@
 <h1 align="center" >Hi 👋, I'm  Mudassir Khan</h1>
 <h1 align="center"> FrontEnd Developer</h1>
 <img align="right" alt="coding" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
-<img align="right" alt="coding" width="400" src="https://github.com/Mudassirkhan2/Mudassirkhan2/blob/main/github.gif">
+
 
 🔭 I’m Currently Learning and working on React .<br>🌱 And also currently pursuing my Bachelor's Degree in Electrical Engineering <br>💬 Ask me about Frontend Development <br>📫 How to reach me: mudassir222001@gmail.com<br>😄 Pronouns: He/His
 
