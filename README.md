@@ -6,7 +6,7 @@
 [![](https://visitcount.itsvg.in/api?id=Mudassirkhan2&icon=2&color=9)](https://visitcount.itsvg.in)
 
 
-🔭 I’m Currently Learning and working on React .<br>🌱 And also currently pursuing my Bachelor's Degree in Electrical Engineering <br>💬 Ask me about Frontend Development <br>  🚀My Portfolio Website www.mudassirkhan.tech <br>📫 How to reach me: mudassir222001@gmail.com<br>😄 Pronouns: He/His
+🔭 I’m Currently Learning and working on NextJS .<br>🌱 And also currently pursuing my Bachelor's Degree in Electrical Engineering <br>💬 Ask me about Frontend Development <br>  🚀My Portfolio Website www.mudassirkhan.tech <br>📫 How to reach me: mudassir222001@gmail.com<br>😄 Pronouns: He/His
 
 
 ## 🌐 Socials:
