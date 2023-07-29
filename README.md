@@ -1,5 +1,7 @@
 
-![logo](https://github.com/Mudassirkhan2/Mudassirkhan2/blob/main/github.gif)
+
+<!--![logo](https://github.com/Mudassirkhan2/Mudassirkhan2/blob/main/github.gif) -->
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38F7D5&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mudassir+Khan;a+++Frontend+Developer+)](https://git.io/typing-svg)
 <img align="right" alt="coding" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
