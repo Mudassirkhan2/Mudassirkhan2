@@ -29,7 +29,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mudassirkhan2&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-
+[![An image of @mudassirkhan2's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mudassirkhan2)](https://holopin.io/@mudassirkhan2)
 
 
 
