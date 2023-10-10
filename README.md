@@ -3,12 +3,20 @@
 <!--![logo](https://github.com/Mudassirkhan2/Mudassirkhan2/blob/main/github.gif) -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38F7D5&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mudassir+Khan;a+++Frontend+Developer+)](https://git.io/typing-svg)
-<img align="right" alt="coding" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+<div style="text-align: center;">
+  <img align="rignt" alt="coding" width="30" src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif">
+</div>
 
 [![](https://visitcount.itsvg.in/api?id=Mudassirkhan2&icon=2&color=9)](https://visitcount.itsvg.in)
 
 
-🔭 I’m Currently Learning and working on NextJS .<br>🌱 I have completed my Bachelor's Degree in Electrical Engineering. <br>💬 Ask me about Frontend Development <br>  🚀My Portfolio Website www.mudassirkhan.tech <br>📫 How to reach me: mudassir222001@gmail.com<br>😄 Pronouns: He/His
+
+
+
+
+
+💬 Ask me about Frontend Development <br>  🚀My <span style="color: red;"> Portfolio Website</span>  www.mudassirkhan.tech <br>🌱 I have completed my Bachelor's Degree in Electrical Engineering. <br>📫 How to reach me: mudassir222001@gmail.com<br>😄 Pronouns: He/His
 
 
 ## 🌐 Socials:
