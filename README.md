@@ -16,7 +16,7 @@
 
 
 
-💬 Ask me about Frontend Development <br>  🚀My <span style="color: red;"> Portfolio Website</span>  www.mudassirkhan.tech <br>🌱 I have completed my Bachelor's Degree in Electrical Engineering. <br>📫 How to reach me: mudassir222001@gmail.com<br>😄 Pronouns: He/His
+💬 Ask me about Frontend Development <br>  🚀My <span style="color: red;"> Portfolio Website</span> [ mudassir-khan.vercel.app](https://mudassir-khan.vercel.app/) <br>🌱 I have completed my Bachelor's Degree in Electrical Engineering. <br>📫 How to reach me: mudassir222001@gmail.com<br>😄 Pronouns: He/His
 
 
 ## 🌐 Socials:
